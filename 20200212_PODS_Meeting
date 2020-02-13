@@ -1,0 +1,94 @@
+Project Proposal:
+	• Novel
+	• Intensive
+	• Design
+	• Cool shit
+
+Business:
+	• File sharing
+		○ GitHub to share
+			§ Push/pull, version control
+			§ .SEQ file upload
+		○ Google Drive
+	• Slack to talk
+
+PROJECT:
+	• Vision: 2 weeks to next meeting; think about 2 projects you want to propose and come with prepared material
+	• Vote on proposals
+	• Considerations
+		○ How novel?
+		○ Sequential design code
+		○ Zemax preferred
+		○ Ask various professors you're connected to
+	• Inspiration
+		○ Design Group at RIT
+		○ Anthony Vela at LLNL 
+			§ 3D printed, index-varying optics
+		○ Zoom Lenses
+			§ Afocal zoom
+				□ Minimize pupil walk (aberration)
+			§ Python script to generate optimal first-order power solutions
+			§ Freeze ray for Megamind
+		○ Project submissions to Intl. Design competitions
+		○ Bat Signal
+			§ Real application, develop specs
+	• Want a progress update at the end of the semester showing what PODS is up to
+
+Thoughts:
+	• Talk to Koshel about hosting a FRED workshop to introduce folks to stray light analysis
+	• Day of knowledge transfer between members of PODS
+	• Inviting PODS members to join the 
+
+CubeSat:
+	• Optical design trade-study
+	• Combo of a couple papers
+	• 2018 paper, comparison of objectives for CubeSats
+		○ 1 U = 10 cm^3 volume
+		○ Propose 3 U CubeSat with 2 U for optics and 1 U avionic, instruments
+		○ Build spec out of target
+		○ Considered 3 element refractive systems
+		○ Freeform, reflective TMA
+			§ "Gold leaf on a donut"
+		○ Not particularly complex designs, but a lot of them
+	• Lots of subdivisions of optical objective
+	• Design space mapped to cost function, constrained to CubeSat volume
+	• Jaren's advisor knows his shit about CubeSats
+	• Could even use Joel's 
+	• CREATE: Design space for CubeSat
+	• Re: Non-Seq.
+		○ Reasonable to assemble in mech software and do stray light
+	• Affie's undergrad project is EUV solar telescope on a CubeSat
+	• Instrument suites may be explored as well
+		○ Mini-spectrographs
+		○ Jaren @ JPL
+			§ Spectrograph w/ HiRISE resolution (interferometric), optimized for space-based applications
+			§ Balanced on his nose in a photo
+				□ You should ask to see the photo
+				□ It's pretty sick
+				□ I'm jelly
+
+Non-Sequential Design : Scatterometer
+	• Find a good, high-resolution scatterometer
+	• Hard to 
+	• Scatter measurement unit 5D CNC system, instead of a goniometer
+		○ Current tech uses fibers on goniometer; limiting
+		○ 5D CNC would allow for more precise measurement of BSDF and BRDF
+	• Joel: Lot's of companies in LIDAR really want to know polarization dependent BSDF, BRDF
+		○ Could use polarization-maintaining fibers to enable polarization measurement
+		○ Currently, polarization-maintaining fiber at LIDAR wavelengths do not exist
+	• Often in LIDAR, output is left hand circular, return right hand circular
+	• In LIDAR, don't want specular reflections
+		○ There are companies who would kill to see this info
+	• May not be primarily focused on sequential modeling
+		○ Jaren: worried about the learning curve for non-sequential for everyone
+
+Visible Spectrum Startracker:
+	• Sara has worked on this at SpaceMicro
+	• Two purposes
+		○ High-contrast 4K sensor to look at earth as well as stars
+		
+
+OUTREACH IDEA: Corn syrup suspended on water forms a grin lens, which will deflect a laser downwards on a curve
+
+WOOD LENS: Radial GRIN
+See Duncan Moore's group at RIT
